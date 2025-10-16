@@ -75,7 +75,7 @@ if _G.FastAttack then
         end
 
         local FastAttack = {
-            Distance = 50,
+            Distance = 150,
             attackMobs = true,
             attackPlayers = true,
             Equipped = nil
